@@ -1,0 +1,12 @@
+To update, 
+- Close Curseforge or Run the executable as an Administrator
+
+The package is self-signed and Microsoft doesn't like that, so it'll complain. 
+
+If it says it doesn't want to run the executable, click "More Info", the click "Run Anyway".
+
+It should pop up a window showing you what's happening as it updates. 
+
+When it's done, it'll tell that it's successfully updated. You can close the window.
+
+If you run into any problems, contact Razmakaz. 

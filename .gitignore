@@ -5,11 +5,10 @@
 !mods/
 !mods/*
 
-!config/
-!config/*
-
 !kubejs/
 !kubejs/*
+kubejs/server_scripts/
+kubejs/startup_scripts/
 
 !resourcepacks/
 !resourcepacks/*
@@ -20,3 +19,4 @@
 !servers.dat
 !raz-updater*
 !updater.raz
+!UPDATING.txt
